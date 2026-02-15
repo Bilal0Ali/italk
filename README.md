@@ -108,7 +108,7 @@ The result is a **probabilistic compatibility score**, along with insights and r
 
 ### Desktop View
 <!-- Replace with actual images -->
-![Desktop Home](assets/screenshots/desktop-home.png)
+![Desktop Home](C:\Users\khush\OneDrive\Pictures\Screenshots\Screenshot 2026-02-15 151545.png)
 ![Clone Talks](assets/screenshots/clone-talks.png)
 
 ### Mobile View
