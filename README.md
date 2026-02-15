@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Replace with your logo -->
-  <img src="C:\Users\khush\OneDrive\Desktop\Bilal Ali\italk\ChatGPT Image Feb 15, 2026, 05_19_22 PM.png" alt="italk logo" width="120"/>
+  <img src="C:\Users\khush\OneDrive\Desktop\Bilal Ali\italk\italk_logo.png" alt="italk logo" width="120"/>
 </p>
 
 ---
