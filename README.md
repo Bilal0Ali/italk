@@ -109,7 +109,7 @@ The result is a **probabilistic compatibility score**, along with insights and r
 ### Desktop View
 <!-- Replace with actual images -->
 <img src="https://github.com/Bilal0Ali/italk/blob/main/Screenshot%202026-02-15%20151910.png"/>
-![Clone Talks](assets/screenshots/clone-talks.png)
+<img src="https://github.com/Bilal0Ali/italk/blob/main/Screenshot%202026-02-15%20151545.png"/>
 
 ### Mobile View
 ![Mobile Home](assets/screenshots/mobile-home.png)
